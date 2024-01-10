@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flags of the countries Quiz on the App</string>
+    <string name="quiz_app">Quiz_app</string>
+    <string name="welcom">Welcom</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="start">\@string/start</string>
+    <string name="please_enter_your_name">\@string/please_enter_your_name</string>
+    <string name="Start">start</string>
+    <string name="enter_your_name">Enter Your name</string>
+</resources>
